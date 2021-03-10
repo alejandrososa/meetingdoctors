@@ -1,6 +1,6 @@
 <?php
 /**
- * Ofertaski, Created by PhpStorm.
+ * MeetingDoctors, Created by PhpStorm.
  * @author: Alejandro Sosa <alesjohnson@hotmail.com>
  * @copyright Copyright (c) 2021, 10/3/21 09:26
  */
