@@ -9,6 +9,8 @@
 /public/bundles/
 /var/
 /vendor/
+/config/reports/customer/*.csv
+!/config/reports/customer/.gitkeep
 ###< symfony/framework-bundle ###
 
 ###> symfony/phpunit-bridge ###
