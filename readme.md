@@ -34,7 +34,7 @@ ejecutar el siguiente comando:
     
     php bin/console app:reports:generate-csv-customers 
 
-El .csv generado con el listado de clientes se encuentra en `reports/customers.csv`
+El .csv generado con el listado de clientes se encuentra en `config/reports/customers.csv`
 
 
 ## Test with details
